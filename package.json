@@ -1,0 +1,9 @@
+{
+  "name": "v",
+  "version": "1.0.1",
+  "description": "vd",
+  "main": "index.js",
+  "repository": "https://github.com/swpudp/nshop.git",
+  "author": "swpudp <swpudp@163.com>",
+  "license": "MIT"
+}
