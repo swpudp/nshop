@@ -5,5 +5,8 @@
   "main": "index.js",
   "repository": "https://github.com/swpudp/nshop.git",
   "author": "swpudp <swpudp@163.com>",
-  "license": "MIT"
+  "license": "MIT",
+  "devDependencies": {
+    "webpack": "4.5.0"
+  }
 }
