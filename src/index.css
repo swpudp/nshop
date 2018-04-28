@@ -1,0 +1,7 @@
+body {
+    background: url("./image/test.png") no-repeat 0 0;
+}
+
+#app {
+    color: rgb(255, 215, 0);
+}
